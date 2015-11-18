@@ -4,7 +4,7 @@
 ##Overview
 This HTML and JavaScript example illustrates how to integrate BIRT iHub into a responsive, mobile web application. Two BIRT APIs, the REST API, and the JavaScript API (JSAPI) retrieve data and visualizations from a demonstration BIRT iHub 3.1 server. The iHub server resources used by this example are included with the source code if you want to use your own BIRT iHub server.
 
-This web application uses the Angular JavaScript frameworks to display HTML content in a single HTML file and build previous and next links to navigate data displayed in the web page.   
+This web application uses the Angular JavaScript frameworks to display HTML content in a single HTML file and build previous and next links to navigate data displayed in the web page. A demonstration of this application is available at the following URL: http://aviatioexample.actuate.com/.
 
 ![](/Screenshots/examples.png)
 
